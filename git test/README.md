@@ -1,5 +1,4 @@
 ## 깃이랑 연결하기
-
 ## git init
 
 ## git remote add origin https://github.com/JUNYOUNG31/TIL.git
@@ -11,4 +10,3 @@
 ## git commit -m "커밋하는 내용의 이유"
 
 ## git push origin master
-
